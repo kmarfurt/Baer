@@ -5,6 +5,6 @@
 <title>Bär in der Cloud</title>
 </head>
 <body>
-Tüüüüüüüüüüüüüüüüüt!
+Tüüüüüüüt!
 </body>
 </html>
